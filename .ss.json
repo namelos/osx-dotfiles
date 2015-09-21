@@ -1,0 +1,7 @@
+{
+"server": "jp01-3.ssv5.net",
+"server_port": 14480,
+"password": "gYyX05Unj2ui",
+"method": "aes-256-cfb",
+"local_port": 1080
+}
